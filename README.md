@@ -1,5 +1,6 @@
 # Online-Result-Management-System
 This is a management system where teachers can manage the result and grading information of a course. In addition, this system also contains several useful functionalities for admin and student users also.
+Admin can assign courses to instructors, add students to a course and can also drop students from a course. The instructors can assign the marks of students under his/her courses, such as marks of mid exam, final exam, quiz, project, assignment and etc. Instructors can also generate the final grades after assigning all the marks of a course. And the students can view his/her profile and final grades of the courses which were taken by him/her.
 
 
 
